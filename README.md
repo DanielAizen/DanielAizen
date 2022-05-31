@@ -21,7 +21,7 @@
 <img src="https://img.shields.io/badge/-mysql-039BE5?&style=for-the-badge&logo=mysql"/> 
 <img src="https://img.shields.io/badge/-docker-0db7ed?&style=for-the-badge&logo=docker&logoColor=white"/> 
 <br/><br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Birkagal&theme=dark&layout=compact" align="center" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielAizen&theme=dark&layout=compact" align="center" />
 ## Contact
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>][gmail] [<img src="https://img.shields.io/badge/linkedin-0077B5?&style=for-the-badge&logo=linkedin&logoColor=white"/>][linkedin]
 
