@@ -38,6 +38,8 @@
 ![Jira](https://img.shields.io/badge/-Jira-000?&logo=jira&style=for-the-badge)
 
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielAizen&theme=dark&layout=compact"/>
+
 ## Contact
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)][gmail] [![Linkedin](https://img.shields.io/badge/linkedin-0077B5?&style=for-the-badge&logo=linkedin&logoColor=white)][linkedin] 
