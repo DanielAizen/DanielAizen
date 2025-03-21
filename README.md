@@ -2,7 +2,7 @@
 
 📙 B.Sc Software Engineering at Afeka Academic College of Engineering
 
-🏢 Full Stack Developer @<a href='https://www.Flow-Sec.com'>FlowSec</a>
+🏢 Full Stack engineer @<a href='https://thezyro.com/'>Zyro</a>
 
 🕸️ See more https://danielaizen.github.io/DanielAizen-github/
 
